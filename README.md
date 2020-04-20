@@ -10,6 +10,9 @@ Derivador de excedentes con comunicacion Modbus TCP y CCGX Victron
     ESP32 Dev.
     Nextion Display (https://nextion.tech/).
     Robotdyn Dimmer o similar.
+    Amimentador 5VDC.
+    Alimentador 12VDC (Opcionl)
+    Ventilador 12VDC (Opcional)
 
 // --- SOFTWARE NECESARIO --- //
 
